@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-inapppurchase-2",
-  "version": "2.0.5",
+  "name": "cordova-plugin-inapppurchase-3",
+  "version": "0.1.0",
   "description": "A lightweight cordova plugin for in app purchases on iOS and Android with a simple promise based API.",
   "main": "www/index-ios.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wccrawford/cordova-plugin-inapppurchase-2.git"
+    "url": "git://github.com/cozycodegh/cordova-plugin-inapppurchases.git"
   },
   "keywords": [
     "cordova",
@@ -33,11 +33,14 @@
     "ionic"
   ],
   "author": {
-    "name": "William Crawford",
-    "email": "wccrawford@gmail.com"
+    "name": "CozyCode",
+    "email": "hello@cozycode.ca"
   },
   "license": "MIT",
-  "homepage": "https://github.com/wccrawford/cordova-plugin-inapppurchase-2",
+  "homepage": "https://cozycode.ca/post?pon=cordova-plugin-inapppurchases",
+  "bugs": {
+      "url": "https://github.com/cozycodegh/cordova-plugin-inapppurchases/issues"
+        },
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/plugin-transform-async-to-generator": "^7.14.5",
